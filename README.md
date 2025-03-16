@@ -11,4 +11,4 @@ O **Android ADB Debloat** é uma ferramenta prática para automatizar a remoçã
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/Android-ADB-Debloat.git
+   git clone https://github.com/rivaed/Android-ADB-Debloat.git
