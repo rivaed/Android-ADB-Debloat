@@ -1,7 +1,7 @@
 # Android ADB Debloat
 
 ## Descrição
-O **Android ADB Debloat** é uma ferramenta prática para automatizar a remoção de bloatware em dispositivos Android via ADB. A ideia é facilitar a desinstalação de aplicativos indesejados de forma segura — removendo-os apenas para o usuário 0 — e otimizar o desempenho do dispositivo. Se você busca limpar o sistema sem complicações, este projeto é para você.
+O **Android ADB Debloat** é uma ferramenta prática para automatizar a remoção de bloatware em dispositivos Android via ADB. A ideia é facilitar a desinstalação de aplicativos indesejados de forma segura — removendo-os apenas para o usuário — e otimizar o desempenho do dispositivo. Se você busca limpar o sistema sem complicações, este projeto é para você.
 
 ## Pré-Requisitos
 - **ADB:** Certifique-se de que o ADB esteja instalado e configurado corretamente.
